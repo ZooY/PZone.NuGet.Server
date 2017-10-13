@@ -1,2 +1,3 @@
-# PZone.NuGet.Server
-Custom NuGet Server based on standard NuGet libraries with small additions.
+# PZone NuGet Server
+NuGet Server, собранный на основе стандарных библиотек NuGet.
+Добавлены небольшие дополнения по интерфейсу и кастомизации под нужны организации корпоративного хранилища библиотек.
