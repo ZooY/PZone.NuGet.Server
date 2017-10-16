@@ -1,3 +1,3 @@
 # PZone NuGet Server
-NuGet Server, собранный на основе стандарных библиотек NuGet.
-Добавлены небольшие дополнения по интерфейсу и кастомизации под нужны организации корпоративного хранилища библиотек.
+NuGet Server for the corporate network, assembled on the basis of standard NuGet libraries.
+Added small add-ons for the interface and customization to the needs of the organization of the corporate library storage.
